@@ -1,0 +1,18 @@
+/*
+	-- main.scss --
+
+	We import all the stylesheets here and just compile this file. 
+	You can create new partials where neccesary (e.g _home.scss)
+	and import them here.
+
+	what we import by default:
+		-normalize: makes built-in browser styling consistent across browsers (http://necolas.github.io/normalize.css/)
+		-Skeleton: the original dead simple boilerplate (http://getskeleton.com/)
+		-global: Include all your global styles here
+		-utilites: Include all your customs utilites here (e.g text-center, text-white etc.)
+*/
+
+@import "normalize";
+@import "skeleton/skeleton";
+@import "utilities";
+@import "global";
