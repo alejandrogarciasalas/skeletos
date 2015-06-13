@@ -11,4 +11,3 @@ This gulp file includes:
 * Image min
 * watch task
 
-[I](https://github.com/alejandrogarciasalas) recommend using this boilerplate only for small projects (a single landing page etc.)
