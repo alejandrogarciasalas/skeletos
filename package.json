@@ -1,0 +1,17 @@
+{
+  "name": "skeletos",
+  "title": "a fairly simple automated boilerplate for small quick projects ",
+  "author": "Alejandro García",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alejandrogarciasalas/skeletos.git"
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-imagemin": "latest"
+  }
+}
